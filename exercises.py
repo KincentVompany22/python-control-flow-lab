@@ -1,4 +1,3 @@
-"""
 
 # Exercise 0: Example
 #
@@ -149,8 +148,6 @@ def weather_advice():
 
 # Call the function
 weather_advice()
-
-"""
 
 # Exercise 5: What's the Season?
 #
